@@ -1,27 +1,27 @@
 [
   {
     "full_name": "open-sauced/goals-template",
-    "stargazers_count": 15,
-    "open_issues_count": 4,
+    "stargazers_count": 16,
+    "open_issues_count": 3,
     "forks_count": 6
   },
   {
     "full_name": "kristopolous/BOOTSTRA.386",
     "stargazers_count": 5997,
     "open_issues_count": 50,
-    "forks_count": 296
+    "forks_count": 297
   },
   {
     "full_name": "Heptagram-Bot/Heptagram",
-    "stargazers_count": 29,
-    "open_issues_count": 30,
-    "forks_count": 23
+    "stargazers_count": 30,
+    "open_issues_count": 31,
+    "forks_count": 24
   },
   {
     "full_name": "drduh/macOS-Security-and-Privacy-Guide",
-    "stargazers_count": 18404,
+    "stargazers_count": 18412,
     "open_issues_count": 12,
-    "forks_count": 1320
+    "forks_count": 1321
   },
   {
     "full_name": "theopensourceway/guidebook",
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "jamstack/jamstack.org",
-    "stargazers_count": 1966,
+    "stargazers_count": 1972,
     "open_issues_count": 51,
     "forks_count": 450
   },
   {
     "full_name": "phuoc-ng/1loc",
-    "stargazers_count": 4696,
+    "stargazers_count": 4700,
     "open_issues_count": 40,
-    "forks_count": 354
+    "forks_count": 355
   },
   {
     "full_name": "bucky355/vue-wordpress",
-    "stargazers_count": 422,
+    "stargazers_count": 423,
     "open_issues_count": 33,
     "forks_count": 100
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 12473,
-    "open_issues_count": 344,
-    "forks_count": 1123
+    "stargazers_count": 12482,
+    "open_issues_count": 341,
+    "forks_count": 1124
   },
   {
     "full_name": "pluwen/awesome-iconjar",
-    "stargazers_count": 202,
+    "stargazers_count": 203,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "deeebeee3/Aconagua",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "elementor/elementor",
-    "stargazers_count": 4037,
-    "open_issues_count": 2451,
-    "forks_count": 999
+    "stargazers_count": 4039,
+    "open_issues_count": 2456,
+    "forks_count": 1000
   },
   {
     "full_name": "ohansemmanuel/advanced-react-patterns-ultrasimplified",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "jhu-ep-coursera/fullstack-course4",
-    "stargazers_count": 6495,
+    "stargazers_count": 6515,
     "open_issues_count": 3,
-    "forks_count": 9122
+    "forks_count": 9147
   },
   {
     "full_name": "dwmkerr/hacker-laws",
-    "stargazers_count": 18262,
+    "stargazers_count": 18268,
     "open_issues_count": 110,
-    "forks_count": 1148
+    "forks_count": 1146
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 56966,
+    "stargazers_count": 57045,
     "open_issues_count": 42,
-    "forks_count": 7211
+    "forks_count": 7233
   },
   {
     "full_name": "blopa/Contract-Builder",
@@ -116,7 +116,7 @@
   {
     "full_name": "rtivital/react-pages-boilerplate",
     "stargazers_count": 137,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 22
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "olivierverdier/zsh-git-prompt",
-    "stargazers_count": 1520,
+    "stargazers_count": 1521,
     "open_issues_count": 60,
     "forks_count": 367
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 95551,
+    "stargazers_count": 95647,
     "open_issues_count": 14,
-    "forks_count": 13006
+    "forks_count": 13029
   },
   {
     "full_name": "selfdefined/devsofcolour",
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "amejiarosario/dsa.js-data-structures-algorithms-javascript",
-    "stargazers_count": 6108,
-    "open_issues_count": 1,
+    "stargazers_count": 6111,
+    "open_issues_count": 0,
     "forks_count": 617
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 120269,
-    "open_issues_count": 247,
-    "forks_count": 19749
+    "stargazers_count": 120384,
+    "open_issues_count": 248,
+    "forks_count": 19779
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 58290,
+    "stargazers_count": 58334,
     "open_issues_count": 285,
-    "forks_count": 2638
+    "forks_count": 2637
   },
   {
     "full_name": "jgillman/dotfiles",
